@@ -151,6 +151,10 @@
         <item name="textAllCaps">true</item>
     </style>
 
+    <style name="TextAppearance.VerySmall" parent="@style/TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">10sp</item>
+    </style>
+
     <style name="TextAppearance.Subhead.Bold" parent="@style/TextAppearance.AppCompat.Subhead">
         <item name="android:textStyle">bold</item>
     </style>
